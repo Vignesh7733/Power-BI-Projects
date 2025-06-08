@@ -15,3 +15,7 @@ TikTok dominates in Asia (4%), while Facebook leads in Europe (3%).
 Near-equal distribution (33% each for Male/Female/Other).  
 4.Occupation :
 Students and professionals constitute 55% of users.  
+
+## Power BI Service link
+
+https://app.powerbi.com/view?r=eyJrIjoiNTE1M2E5NDMtN2M1Yy00M2JiLTllMjAtMGZiOTk5OGE2OTc4IiwidCI6ImJjNzA2NDBhLWU5NGUtNGNlYS1iZmEwLTMzOWVlNWUyZmU0NCJ9
