@@ -10,6 +10,6 @@ This Power BI dashboard provides a comprehensive analysis of cryptocurrency mark
 * Aave exhibited extreme volatility in October 2020 ( -25.66% drop on Oct 6, followed by gradual recovery).  
 * High correlation between "Sum of High" and "Sum of Low" metrics (both at 5,100K–5,500K range), indicating broad market trends.
 
-## Power BI SERVICE link
+## Power BI Service link
 
-
+https://app.powerbi.com/links/jQiZaihMtd?ctid=bc70640a-e94e-4cea-bfa0-339ee5e2fe44&pbi_source=linkShare
