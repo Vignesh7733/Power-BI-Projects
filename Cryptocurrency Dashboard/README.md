@@ -12,4 +12,4 @@ This Power BI dashboard provides a comprehensive analysis of cryptocurrency mark
 
 ## Power BI Service link
 
-https://app.powerbi.com/links/jQiZaihMtd?ctid=bc70640a-e94e-4cea-bfa0-339ee5e2fe44&pbi_source=linkShare
+[https://app.powerbi.com/links/jQiZaihMtd?ctid=bc70640a-e94e-4cea-bfa0-339ee5e2fe44&pbi_source=linkShare](https://app.powerbi.com/view?r=eyJrIjoiYjEwNzRlYzgtZThlZC00N2M3LWFmMDAtNzNhNjgyYzFiMDBmIiwidCI6ImJjNzA2NDBhLWU5NGUtNGNlYS1iZmEwLTMzOWVlNWUyZmU0NCJ9)
