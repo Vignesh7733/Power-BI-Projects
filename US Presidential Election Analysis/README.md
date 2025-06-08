@@ -17,3 +17,9 @@ Republicans control 27 states consistently, Democrats dominate 24.
 States like Arizona and Georgia have fluctuated, highlighting their critical role in elections.
 5.Targeting Key States :
 Parties should focus on swing states for future elections to maximize their chances of winning. 
+
+## Power BI Service link
+
+https://app.powerbi.com/view?r=eyJrIjoiZjdhZDAxZWYtZjJkNC00MzliLTgxY2MtMzViZjlmYTg0MzJmIiwidCI6ImJjNzA2NDBhLWU5NGUtNGNlYS1iZmEwLTMzOWVlNWUyZmU0NCJ9
+
+
